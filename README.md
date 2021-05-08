@@ -4,8 +4,9 @@
 <p>A quick note i hate C++ for some reason</p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirl21&theme=tokyonight" />
-![](https://img.shields.io/badge/lol-abc-informational?style=flat&logo=fortran&logoColor=white&color=2bbc8a)
 
+
+![image](https://user-images.githubusercontent.com/71062861/117537502-f58b8100-b01e-11eb-9eda-662de4e764d3.png)
 
 
 
