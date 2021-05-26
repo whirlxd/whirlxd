@@ -1,6 +1,6 @@
 <h1>Heyy There</h1>
 	<body>Im Whirl Just another Guy on GitHub!</body>
-<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-4/727894519227613234.png"> </div>
+<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-2/727894519227613234.png"> </div>
 <h2>Some Other Stuff About me -</h2>
 <p>A quick note i hate C++ for some reason</p>
 
