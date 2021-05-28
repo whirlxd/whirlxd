@@ -23,9 +23,7 @@
 	  <a href="https://npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=red" alt="Npm" width="45" height="40"/> </a></p><a href="https://code.visualstudio.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/whirl21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="whirl21" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/whirlㅤ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="whirlㅤ" height="30" width="40" /></a>
-<a href="https://discord.gg/2WUmpeNPD7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="2WUmpeNPD7" height="30" width="40" /></a>
+ <a href="https://discord.gg/qM4QaRpZ9X" target="_blank"> <img src="https://southportlandlibrary.com/wp-content/uploads/2020/11/discord-logo.jpg" alt="Replit" width="40" height="40"/> </a>
 </p>
 
 ![image](https://user-images.githubusercontent.com/71062861/117537558-734f8c80-b01f-11eb-9767-a8035b6560ae.png)
