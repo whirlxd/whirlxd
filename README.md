@@ -26,7 +26,7 @@
  <a href="https://discord.gg/qM4QaRpZ9X" target="_blank"> <img src="https://southportlandlibrary.com/wp-content/uploads/2020/11/discord-logo.jpg" alt="Replit" width="40" height="40"/> </a>
 </p>
 
-![image](https://user-images.githubusercontent.com/71062861/117537558-734f8c80-b01f-11eb-9767-a8035b6560ae.png)
+
 
 
 
