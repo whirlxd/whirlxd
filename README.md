@@ -21,7 +21,7 @@
 
 - 📫 How to reach me - [**Discord**](https://discord.com/users/808332105108553759)
 
-- ⚡ Fun fact - **i hate jsx**
+- ⚡ Fun fact - **i hate react , angular , vue but like svelte**
 
 
 
