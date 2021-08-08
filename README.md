@@ -21,7 +21,7 @@
 
 - 📫 How to reach me - [**Discord**](https://discord.com/users/808332105108553759)
 
-- ⚡ Fun fact - **i don't hate maths but my parents are trying their best to make me hate it**
+- ⚡ Fun fact - **No im not 20 , Im 13**
 
 
 
