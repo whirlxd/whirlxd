@@ -59,6 +59,6 @@
 <a href="https://www.buymeacoffee.com/whirlxd" target="_blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 <h1 align="center">Github Corner</h1>
 
-
+<img src="https://github.com/Whirl21/Whirl21/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 
 
