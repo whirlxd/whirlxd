@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0e75b6&style=flat" alt="whirl21" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> </p>
 
 
 - 🔭 I’m currently working on - **Improving my Skills and new projects**
@@ -20,6 +20,8 @@
 - 💬 Ask me about - **anything**
 
 - 📫 How to reach me - [**Discord**](https://discord.com/users/808332105108553759)
+
+- 📝 I regularly write articles on [my blog](whirl.codes/blog)
 
 - ⚡ Fun fact - **No I'm Not 20 , Im 13**
 
