@@ -47,20 +47,11 @@
 <a href="https://discord.com/users/808332105108553759" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reddit.com/u/n_i_n_j_a_2_1" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Whirl_21" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="twitter" height="32" width="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/0qr4lrrkcrzshcpxp5so11tcv" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" alt="spotify" height="32" width="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://whirl.codes" target="_blank"><img alt="Website" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/imgur.svg" alt="website" height="32" width="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/0qr4lrrkcrzshcpxp5so11tcv" target="_blank"><img alt="Twitter" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" alt="spotify" height="32" width="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 </p>
-<h3 align="left">Support Me:</h3>
-<p align="center">
-<a href="https://www.patreon.com/whirlxd">
-  <img align="center"src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
-<a href="https://ko-fi.com/L3L55K2JI">
-  <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></img>
-</a>    
-<a href="https://www.buymeacoffee.com/whirlxd" target="_blank"><img align="center" src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 <h1 align="center">Github Corner</h1>
 
 <img src="https://github.com/Whirl21/Whirl21/blob/main/github-metrics.svg" alt="Metrics" width="100%">
