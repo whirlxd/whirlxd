@@ -1,7 +1,7 @@
 <h1 align="center">Heyy 👋, I'm Whirl</h1>
 
 
-<h3 align="center">A passionate Self Taught Full Stack Developer</h3>
+<h3 align="center">A Passionate Self Taught Full Stack Developer</h3>
 <div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/808332105108553759.png"></div>
 <div align="right"><img alt= "owo"src = "https://spotify-github-profile.vercel.app/api/view?uid=0qr4lrrkcrzshcpxp5so11tcv&cover_image=true&theme=novatorem"></div>
 
@@ -13,17 +13,15 @@
 
 - 🔭 I’m currently working on - **Improving my Skills and new projects**
 
-- 🌱 I’m currently learning - **Frontend Development**
+- 🌱 I’m currently learning - **Databases**
 
-- 👯 I’m looking to collaborate on - **Nothing**
+- 💬 Ask me about - **Psychology & Sleuths**
 
-- 💬 Ask me about - **anything**
-
-- 📫 How to reach me - [**Discord**](https://discord.com/users/808332105108553759)
+- 📫 How to reach me - [**Discord**](https://discord.com/users/808332105108553759) or [**Email**](mailto:hello@whirl.codes) 
 
 - 📝 I regularly write articles on [my blog](whirl.codes/blog)
 
-- ⚡ Fun fact - **No I'm Not 20 , Im 13**
+- ⚡ Fun fact - **No I'm Not 20 , Im 14**
 
 
 
@@ -52,8 +50,6 @@
 
 </p>
 
-<h1 align="center">Github Corner</h1>
 
-<img src="https://github.com/Whirl21/Whirl21/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 
