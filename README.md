@@ -30,7 +30,7 @@
   <tr>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whirlxd&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirxd&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirlxd&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
 
