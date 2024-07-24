@@ -16,11 +16,9 @@
 
 - 🌱 Learning  - **Databases**
 
-- 💬 Interests - **Psychology & Sleuths**
+- 📫 Reach me - [**Discord**](https://discord.com/users/808332105108553759) or [**Email**](mailto:hello@whirlxd.xyz) 
 
-- 📫 Reach me - [**Discord**](https://discord.com/users/808332105108553759) or [**Email**](mailto:hello@whirl.codes) 
-
-- 📝 My Voice - [Blog](whirl.codes/blog)
+- 📝 My Voice - [Blog](whirlxd.xyz)
 
 
 
@@ -31,8 +29,8 @@
 <table width="100%" align="center">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whirl21&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirl21&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whirlxd&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirxd1&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
 
