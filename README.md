@@ -24,13 +24,13 @@
 
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Whirl21&theme=dracula&count_private=true"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Whirlxd&theme=dracula&count_private=true"></div>
 
 <table width="100%" align="center">
   <tr>
     <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whirlxd&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirxd1&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirxd&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
   </tr>
  <table>
 
