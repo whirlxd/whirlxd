@@ -1,13 +1,11 @@
 <h1 align="center">I'm Whirl</h1>
 
-<h3 align="center">professional procrastinator & programmer
+<h3 align="center">brainrotted individual who creates to solves problems
 </h3>
 <div align="center"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/808332105108553759.png"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> 
 
-# 💫 About Me:
-🔭 I’m currently working on a passion project<br>🌱 I’m currently learning about backend technologies and rust<br>
 
 
 # 📊 GitHub Stats:
@@ -36,7 +34,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,git,figma,typescript,javascript,python,c,lua,go,astro,svelte,arch,ubuntu,html,css,bots,discordjs,docker,electron,discord,vscode,supabase,opencv&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,git,figma,typescript,javascript,python,c,lua,go,astro,svelte,arch,ubuntu,html,css,bots,discordjs,docker,electron,discord,vscode,supabase,firebase,opencv,htmx,sqlite,netlify,vercel&perline=10" />
   </a>
 </p>
 
