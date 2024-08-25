@@ -34,7 +34,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,git,figma,typescript,javascript,python,c,lua,go,astro,svelte,arch,ubuntu,html,css,bots,discordjs,docker,electron,discord,vscode,supabase,firebase,opencv,htmx,sqlite,netlify,vercel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vite,git,figma,typescript,javascript,python,c,lua,go,astro,svelte,arch,ubuntu,html,css,bots,discordjs,docker,electron,discord,vscode,supabase,firebase,opencv,htmx,sqlite,netlify,vercel,appwrite,arduino,azure,blender,bootstrap,flutter,gcp,heroku,postman,jest&perline=10" />
   </a>
 </p>
 
