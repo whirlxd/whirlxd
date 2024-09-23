@@ -4,7 +4,9 @@
 </h3>
 <div align="center"><img alt="uwu"src="https://discord.c99.nl/widget/theme-3/808332105108553759.png"></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whirlxd&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whirlxd&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> <img src="https://komarev.com/ghpvc/?username=whirl21&label=Profile%20views&color=0dd3b2&style=flat-square" alt="whirl21" /> </p> 
+
+
 
 
 
