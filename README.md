@@ -20,5 +20,5 @@
        .         +           *                    +~~            '   .  .          .   ' '       *   
 '           '                  +     .                 .    '  o            .  .       
 
-hi@whirlxd.dev (i don't code anymore ✌️)
+hi@medhanshk.com (i don't code anymore ✌️)
 ```
